@@ -1,4 +1,4 @@
-<h2 align="center">Hi there,  👋<br>I'm Harshal Patil</h2>
+<h1 align="center">Hi there,  👋<br>I'm Harshal Patil</h2>
  
 _I'm a dedicated Computer Engineer with a passion for developing innovative solutions and advancing technology. My expertise spans across various domains, including software development, data structures and algorithms, web development, and more._
 
