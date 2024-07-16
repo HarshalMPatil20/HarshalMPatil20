@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋<br>My name is Harshal Patil<br>I'm a Computer Engineer</h2>
+<h2 align="center">Hi there,  👋<br>I'm Harshal Patil</h2>
+ 
+_I'm a dedicated Computer Engineer with a passion for developing innovative solutions and advancing technology. My expertise spans across various domains, including software development, data structures and algorithms, web development, and more._
 
 ###
 
@@ -65,5 +67,9 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/HarshalMPatil20/HarshalMPatil20/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HarshalMPatil20/count.svg?"  />
+</div>
 
 ###
