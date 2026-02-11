@@ -67,8 +67,4 @@ _I'm a dedicated Computer Engineer with a passion for developing innovative solu
 
 <img src="https://raw.githubusercontent.com/HarshalMPatil20/HarshalMPatil20/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HarshalMPatil20/count.svg?"  />
-</div>
-
 ###
